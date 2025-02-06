@@ -41,17 +41,4 @@ Data Science/AI Enthusiast with a passion for leveraging technology to solve rea
 ---
 
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-
 ⭐️ **Star this repo if you like my profile!** 😊
